@@ -1,0 +1,2 @@
+/*TMODJS:{"version":1,"md5":"ad7842561189d4963fc4d1a13bcc455c"}*/
+template('index','<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <title>RequireJs Template</title> <script src="../js/require.js" data-main="./main.js"></script> </head> <body> <div id="list">Loading...</div> </body> </html>');
