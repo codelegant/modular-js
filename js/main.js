@@ -11,7 +11,7 @@ require.config({
 		ui: { exports: "$.ui" },
 	}
 });
-define(["jquery", "ui", "datepicker","tool","name"], function (jQuery, ui, datepicker,tool,name) {
+require(["jquery", "ui", "datepicker","tool","name"], function (jQuery, ui, datepicker,tool,name) {
 	var $ = jQuery;
 	$(document).on("click", "#try", function () {
 		//alert("Hi,I'm Button");
