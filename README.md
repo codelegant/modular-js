@@ -1,2 +1,1 @@
-# requirejs
-requirejs实践
+#模块化JavaScript
